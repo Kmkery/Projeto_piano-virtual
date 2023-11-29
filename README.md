@@ -2,7 +2,9 @@
 
 Este projeto de piano virtual faz uso do framework de áudio _**Tone.js**_, cuja biblioteca permite gerar sons e trabalhar com diversos tipos de efeitos e filtros pré-definidos, dispensando a necessidade de uso de samplers.
 
-Para ver o resultado, [**clique aqui** 🎵🎶](https://kmkery.github.io/Projeto_piano-virtual/).
+Para ver o resultado, [**clique aqui** 🎵🎶](https://kmkery.github.io/Projeto_piano-virtual/). 
+
+**Sugestão:** ao visualizar a aplicação em dispositivos moveis, rotacionar a tela para o modo _landscape_ (paisagem), para melhor experiência.
 
 ## Características do projeto
 * Interruptor Standby/on;
