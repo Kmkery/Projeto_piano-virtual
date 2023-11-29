@@ -32,7 +32,6 @@ body {
     -webkit-tap-highlight-color: transparent; /* Versões mais antigas do iOS */
     -moz-tap-highlight-color: rgba(0,0,0,0); /* Firefox */
     -ms-touch-action: none; /* Internet Explorer / Edge */
-    touch-action: none; 
 }
 
 .container header {
